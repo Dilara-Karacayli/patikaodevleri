@@ -1,7 +1,7 @@
 public class manav{
 
     public static void main(String[] args) {
-        double armut=2.14 , elma =3.67 , domates =1.11 , muz=0.95 , patlican=5.00; //Birim fiyatlarını gösteriyor
+        double armut = 2.14 , elma =3.67 , domates =1.11 , muz=0.95 , patlican=5.00; //Birim fiyatlarını gösteriyor
 
         double toplam;
 
